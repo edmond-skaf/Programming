@@ -1,0 +1,35 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: blueviolet;
+}
+
+#container {
+    width: 100%;
+    text-align: center;
+    text-transform: capitalize;
+    color: yellow;
+    padding: 20px;
+}
+
+#container p {
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#h1 {
+    text-transform: uppercase;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+span {
+    background-color: yellow;
+    color: blueviolet;
+    opacity: 60%;
+    border-radius: 10%;
+    padding: 3px;
+}
